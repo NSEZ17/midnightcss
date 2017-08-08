@@ -249,6 +249,8 @@ hr {
 
 .b-blue {
 	background: #1570a6;
+	margin-left: auto;
+    	margin-right: auto;
 	color: #fff;
 	margin: 3px 0px;
 	display: inline-block;
